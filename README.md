@@ -1,6 +1,6 @@
 # Primeiro Exercício em Python
 
-**Autor:** Matheus Ruivo  
+**Autor:** Matheus Henrique
 **Data:** 02/10/2025  
 
 ---
