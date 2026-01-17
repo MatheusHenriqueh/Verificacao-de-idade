@@ -1,5 +1,5 @@
 # Primeiro exercicio!!! 02/10/2025
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 nome = "Matheus"
 sobrenome = "Ruivo"
 idade = 19 #idade ficticio!
@@ -11,4 +11,5 @@ print("Sobrenome:", sobrenome)
 print("Idade:", idade)
 print("Ano de nascimento", ano_nascimento)
 print('É maior de idade?', maior_de_idade)
+
 print("Altura em metros", altura_metros) #Correto!
